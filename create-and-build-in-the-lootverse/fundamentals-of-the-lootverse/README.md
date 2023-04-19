@@ -21,15 +21,15 @@
 
 <!---->
 
-* While Loot came with no website, no instruction manual, no stats sheet, no game, no stories, no characters, nothing...Loot _does_ have a rich canon hidden in plain sight inside the contract itself.
-* Inside each bag, inside each item, and inside the original Loot contract, there are clues and hints of ancient stories and past adventures, a hidden structure and order to the world.
+* While Loot came with no website, no instruction manual, no stats sheet, no game, no stories, no characters, nothing...Loot _does_ have some rich structure hidden in plain sight inside the contract itself.
+* Inside each bag, inside each item, and inside the original Loot contract, there are clues and hints of ancient stories and past adventures, implying a hidden structure and order to the world.
 
 <!---->
 
 * **An implied timeline:**
-  * Because these Loot items were found in bags, and not on characters, it implies a history and a [timeline](../a-meta-timeline-of-the-lootverse/a-visual-timeline-of-the-eras-of-the-lootverse/) that predates the 8/27/2021 “discovery” of the 8k Loot bags.
+  * Because these Loot items were found in bags, and not on characters, we've come to believe that there is an implied history to this world and an in-world "[timeline](../a-meta-timeline-of-the-lootverse/a-visual-timeline-of-the-eras-of-the-lootverse/)" that predates the 8/27/2021 “discovery” of the 8k Loot bags.
   * Because the 8,000 [og-loot.md](../../welcome-to-loot/what-is-loot/og-loot.md "mention") bags were filled with randomized items, it implies that there was once order and structure, and that there was once a set of "perfect" and original bags, long long ago.&#x20;
-  * In the "[timeline](../a-meta-timeline-of-the-lootverse/a-visual-timeline-of-the-eras-of-the-lootverse/) of Loot," the earliest known Loot bags are widely considered to be the 2,540 [genesis-loot.md](../../welcome-to-loot/what-is-loot/genesis-loot.md "mention") bags. &#x20;
+  * In the in-world "[timeline](../a-meta-timeline-of-the-lootverse/a-visual-timeline-of-the-eras-of-the-lootverse/) of Loot," the earliest known Loot bags are widely considered to be the 2,540 [genesis-loot.md](../../welcome-to-loot/what-is-loot/genesis-loot.md "mention") bags.  \*\* Note that in real life, the OG Loot bags were discovered and minted first, launched by Dom Hofmann, and inside Dom's OG Loot contract we discovered clues that led to the creation of the community-developed Genesis Loot bags, which were launched after OG Loot, but on the "in world timeline" they come first.
     * The items in the OG Loot bags _came_ from these Genesis Loot bags and a set of other Loot bags discovered over time. &#x20;
     * The items from all of these historical Loot bags have been passed down across generations, which is why the 8,000 [og-loot.md](../../welcome-to-loot/what-is-loot/og-loot.md "mention") bags that we all found on 8/28/2022 are full of mixed up items.
     * From these mixed up items, though, it is abundantly clear that Loot is not random — the structure of the bags and the contract hint at ancient stories and a multi-epoch timeline for us to re-discover.
@@ -77,7 +77,7 @@
 
 * And then something cataclysmic happened — nearly all life ceased, only some people remained, and the bags were left hidden and forgotten for generations.
 * For generations, a group of wanderers scoured the land, searching for meaning, turning over rocks and opening ancient caverns, looking for hidden treasures...
-* And then — [**8/27/2022**](https://etherscan.io/tx/0x1fe3eed7d7e753819b662a09a5eaaa162724d64d6585923018c63567fa177d22)****
+* And then — [**8/27/2022**](https://etherscan.io/tx/0x1fe3eed7d7e753819b662a09a5eaaa162724d64d6585923018c63567fa177d22)
 
 <mark style="color:red;">**In real life:**</mark>
 
