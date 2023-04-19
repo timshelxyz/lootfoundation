@@ -32,7 +32,9 @@ _`🎨 This is a wide open canvas for creativity and storytelling.`_
 <summary><a data-mention href="a-visual-timeline-of-the-eras-of-the-lootverse/the-genesis-era.md">the-genesis-era.md</a> (Cycle 1) — <mark style="background-color:orange;">The Earliest Known History</mark></summary>
 
 * People find 2,540 bags of [genesis-loot.md](../../welcome-to-loot/what-is-loot/genesis-loot.md "mention").&#x20;
-* There is a **frenzy**.
+  * Note that in _real life_, we found [OG Loot](../../welcome-to-loot/what-is-loot/og-loot.md) first (8k randomized bags of Loot), and from [OG Loot](../../welcome-to-loot/what-is-loot/og-loot.md) we derived the concept of [Genesis Loot](../../welcome-to-loot/what-is-loot/genesis-loot.md) (2540 original, perfectly-organized bags). &#x20;
+  * But in the _story-world timeline_, the Genesis Loot came first, organized around the 16 Orders, and then devolved into randomness over time. Read on from here to see how that makes sense. :)
+* "What are these magical bags?!" -> There is a **frenzy**.
 * People **learn** about the bags.
 * As they learn, they **trade, cherish, and protect** the bags.
 * This learning leads to an **epiphany, a revelation**.
@@ -47,12 +49,12 @@ _`🎨 This is a wide open canvas for creativity and storytelling.`_
 
 <details>
 
-<summary>The Age of Exploration (Cycle 2) — <mark style="background-color:red;"></mark> <mark style="background-color:orange;">The Past</mark></summary>
+<summary>The Age of Exploration (Cycle 2) —  <mark style="background-color:orange;">The Past</mark></summary>
 
 *   Over time, people find additional bags of Loot. &#x20;
 
     \
-    _🔎  This Loot plus the_ [_**Genesis Loot**_](../../welcome-to-loot/what-is-loot/genesis-loot.md) _discovered in the Genesis Era combine to make up what_ **we** _will later will discover and refer to as_ [og-loot.md](../../welcome-to-loot/what-is-loot/og-loot.md "mention")__
+    _🔎  This Loot plus the_ [_**Genesis Loot**_](../../welcome-to-loot/what-is-loot/genesis-loot.md) _discovered in the Genesis Era combine to make up what_ **we** _will later will discover and refer to as_ [og-loot.md](../../welcome-to-loot/what-is-loot/og-loot.md "mention")
 
 <!---->
 
