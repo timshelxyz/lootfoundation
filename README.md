@@ -1,3 +1,13 @@
+This is backup storage for Loot.foundation
+
+Live at --> https://loot.foundation
+
+---
+
+---
+
+---
+
 ---
 description: A Canonical Guidebook for the Lootverse
 cover: .gitbook/assets/adventurenaut 2800x800 background.png
